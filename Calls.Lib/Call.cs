@@ -4,7 +4,7 @@ using Calls.Lib;
 
 namespace Calls.Lib
 {
-    public class Call
+    class Call
     {
         public int Id { get; }
         public int DurationInSec { get; }

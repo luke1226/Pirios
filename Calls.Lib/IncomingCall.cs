@@ -1,6 +1,6 @@
 namespace Calls.Lib
 {
-    public class IncomingCall
+    class IncomingCall
     {
         public int Id { get; }
 
